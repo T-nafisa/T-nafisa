@@ -1,4 +1,4 @@
-Hi, I'm Nafisa Tabassum, a sophmore undergraduate in CS major. 
+Hi, I'm Nafisa Tabassum, a sophomore undergraduate majoring in Computer Science. 
 
 <!---
 T-nafisa/T-nafisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
